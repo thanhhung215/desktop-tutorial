@@ -1,4 +1,4 @@
-prefix=/c/Workspace/flutter-webrtc-sdk/third_parties/ffmpeg_dependences/openh264
+prefix=/c/luan/desktop-tutorial/edit/main/guide.txt
 libdir=${prefix}/lib
 includedir=${prefix}/include
 
@@ -9,4 +9,4 @@ Libs: -L${libdir} -lopenh264
 Libs.private: -lstdc++
 Cflags: -I${includedir}
 
-
+C:/Users/luan/Documents/working/desktop-tutorial
